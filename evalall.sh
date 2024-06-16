@@ -1,0 +1,1 @@
+for %i in (160,175) do python eval.py --resume %i

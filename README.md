@@ -1,5 +1,5 @@
 # NAIC
-This repository contains the reference code for the paper "Exploring Non-Autoregressive Image Captioning: Patterns and Semantics" .
+This repository contains the reference code for the paper "Exploring Patterns and Semantics in Non-Autoregressive Image Captioning" .
 
 # Requirements
 - Python 3.7
